@@ -11,7 +11,7 @@ Projeto de Análise de Dados da agricultura
 
 ### **OBJETIVO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
-O objetivo desse projeto é a análisar os dados dos Preços de todas as matérias-primas agrícolas de 1990 a 2020.
+O objetivo desse projeto e análisar os dados dos Preços de todas as matérias-primas agrícolas de 1990 a 2020.
 
 ### **ESCOPO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
