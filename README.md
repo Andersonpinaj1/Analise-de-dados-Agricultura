@@ -16,7 +16,7 @@ O objetivo deste projeto é analisar os dados oriundos do Indexmundi que se refe
 ### **ESCOPO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
  
-“Agricultura é a prática de cultivar plantas e criar gado. Foi o principal desenvolvimento na ascensão da civilização humana sedentária, por meio da qual o uso de espécies domesticadas criou excedentes de alimentos que permitiram as pessoas viver nas cidades. 
+Agricultura é a prática de cultivar plantas e criar gado. Foi o principal desenvolvimento na ascensão da civilização humana sedentária, por meio da qual o uso de espécies domesticadas criou excedentes de alimentos que permitiram as pessoas viver nas cidades. 
 
 <p align= "center">
 <img <img width="500px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/Agricultura..jpg" /> 
