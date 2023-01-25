@@ -1,8 +1,8 @@
-# Analise de dados Agricultura
-Projeto de Análise de Dados da agricultura
+# Análise de dados - Agricultura
+Projeto de Análise de Dados da Agricultura.
 
 <p align= "center">
-<img src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/a-importancia-da-agricultura-familiar-no-brasil.jpg" min-width="300px" max-width="200px" width="750px" > <br> <b>AGRO</b> E <b>TUDO</b>
+<img src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/a-importancia-da-agricultura-familiar-no-brasil.jpg" min-width="300px" max-width="200px" width="750px" > <br> <b>AGRO</b> É <b>TUDO</b>
 </p>
  
 
@@ -11,12 +11,12 @@ Projeto de Análise de Dados da agricultura
 
 ### **OBJETIVO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
-O objetivo desse projeto e análisar os dados dos Preços de todas as matérias-primas agrícolas de 1990 a 2020.
+O objetivo deste projeto é analisar os dados oriundos do Indexmundi que se referem aos preços de todas as matérias-primas agrícolas de 1990 a 2020.
 
 ### **ESCOPO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
  
-“Agricultura é a prática de cultivar plantas e criar gado. Foi o principal desenvolvimento na ascensão da civilização humana sedentária, por meio da qual o uso de espécies domesticadas criou excedentes de alimentos que permitiram às pessoas viver nas cidades. A história da agricultura começou há milhares de anos.
+“Agricultura é a prática de cultivar plantas e criar gado. Foi o principal desenvolvimento na ascensão da civilização humana sedentária, por meio da qual o uso de espécies domesticadas criou excedentes de alimentos que permitiram às pessoas viver nas cidades. 
 
 <p align= "center">
 <img <img width="500px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/Agricultura..jpg" /> 
@@ -29,30 +29,30 @@ O objetivo desse projeto e análisar os dados dos Preços de todas as matérias-
 <div align = "left">
 O projeto está estruturado da seguinte forma: <br>
  
-   * Carregando um conjunto de dados
-   * Explorando um conjunto de dados
-   * Lidar com dados ausentes, incorretos e inválidos
-   * Análise Exploratória e Visualização
-   * Fazendo e respondendo perguntas
-   * Inferências e Conclusão
-   * Trabalho futuro
+   * Carregando um conjunto de dados;
+   * Explorando um conjunto de dados;
+   * Lidar com dados ausentes, incorretos e inválidos;
+   * Análise Exploratória e visualização;
+   * Fazendo e respondendo perguntas;
+   * Inferências e Conclusão;
+   * Trabalho futuro.
 </div>
 
 
 ### **INFERÊNCIAS E CONCLUSÕES** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
 
-* Descobrimos as matérias-primas de alta e baixa gama de acordo com seus preços.
-* alta e baixa % de variação dos materiais
-* Pudemos identificar a variação de preços ao longo dos anos.
-* Correlação entre eles usando um mapa de calor
+* Descobrimos as matérias-primas de alta e baixa gama de acordo com seus preços;
+* Alta e baixa % de variação dos materiais;
+* Podemos identificar a variação de preços ao longo dos anos;
+* Correlação entre eles usando um mapa de calor;
 
 <p align= "center">
 <img src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/deagricultura-6.gif" min-width="500px" max-width="400px" width="400px" >
 </p>
 
 <p align= "left">
-Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
+Qualquer feedback, elogio ou sugestão de melhoria será de grande valia!
 </p>
 
 
