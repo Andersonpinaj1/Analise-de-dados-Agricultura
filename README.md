@@ -35,7 +35,7 @@ O projeto está estruturado da seguinte forma: <br>
    * Análise Exploratória e visualização;
    * Fazendo e respondendo perguntas;
    * Inferências e Conclusão;
-   * Trabalho futuro.
+   * Trabalhos futuros.
 </div>
 
 
@@ -56,7 +56,7 @@ Qualquer feedback, elogio ou sugestão de melhoria será de grande valia!
 </p>
 
 
-### **TRABALHO FUTURO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
+### **TRABALHOS FUTUROS** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
 
 * Além disso, poderíamos descobrir a relação entre as matérias-primas em detalhes e, com a ajuda do conhecimento do negócio, poderíamos descobrir as matérias-primas mais
