@@ -11,7 +11,7 @@ Projeto de Análise de Dados da Agricultura.
 
 ### **OBJETIVO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
-O objetivo deste projeto é analisar os dados oriundos do Indexmundi que se referem aos preços de todas as matérias-primas agrícolas de 1990 a 2020.
+O objetivo deste projeto é fornecer uma análise de dados na área da agricultura, com o intuito de ajudar agricultores a tomar decisões informadas e melhorar suas colheitas. A análise dos dados inclui visualizações gráficas e estatísticas que ajudam a identificar tendências e padrões nos dados. O projeto também inclui modelos de machine learning que podem ser usados para prever o desempenho de culturas em condições específicas. Em geral, o objetivo deste projeto é ajudar a melhorar a eficiência e a rentabilidade da agricultura, fornecendo informações valiosas baseadas em dados.
 
 ### **ESCOPO** <img width="50px" src="https://github.com/Andersonpinaj1/Analise-de-dados-Agricultura/blob/main/homem-agri.gif" /> 
 ***
